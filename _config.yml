@@ -23,22 +23,22 @@ repository               : "Mr-WajahatKhalid/Mr-WajahatKhalid.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Wajahat.jpg"
   name             : "Wajahat Khalid"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. Student"
   location         : "Hefei, China"
-  employer         : "University of Science and Technology of China"
+  employer         : "USTC"
   uri              : "https://mr-wajahatkhalid.github.io"
   email            : "" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=HciJ5YYAAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-7806-3947"
   semantic         : # URL
   ssrn             : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
