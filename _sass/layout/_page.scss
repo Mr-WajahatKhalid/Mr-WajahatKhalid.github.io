@@ -399,3 +399,23 @@
   font-size: $type-size-6;
   text-transform: uppercase;
 }
+
+/*
+   Publications
+   ========================================================================== */
+
+.publication {
+  margin-bottom: 20px;
+
+  a {
+    text-decoration: none;
+  }
+
+  strong {
+    font-weight: 700;
+  }
+
+  em {
+    font-style: italic;
+  }
+}
