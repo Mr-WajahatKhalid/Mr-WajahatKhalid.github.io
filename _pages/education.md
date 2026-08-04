@@ -17,7 +17,7 @@ Supervisor: Prof. [Bin Liu](https://faculty.ustc.edu.cn/liubin1/en/index.htm)
 
 School of Information Science and Technology  
 University of Science and Technology of China (USTC) | Hefei, China  
-Sep. 2019 – June 2024  
+Sep. 2019 – Jun. 2024  
 
 Supervisor: Prof. [Bin Liu](https://faculty.ustc.edu.cn/liubin1/en/index.htm)
 
@@ -25,14 +25,14 @@ Supervisor: Prof. [Bin Liu](https://faculty.ustc.edu.cn/liubin1/en/index.htm)
 ## Chinese Language Program
 
 Anhui Normal University (AHNU) | Wuhu, China  
-Sep. 2018 – June 2019  
+Sep. 2018 – Jun. 2019  
 
 
 ## B.Sc. in Telecommunication Engineering
 
 Department of Information and Communication Engineering  
 The Islamia University of Bahawalpur (IUB) | Bahawalpur, Pakistan  
-Sep. 2014 – June 2018  
+Sep. 2014 – Jun. 2018  
 
 GPA: 4.00/4.00  
 
