@@ -7,7 +7,7 @@ author_profile: true
 
 ## Conference Reviewer
 
-- **International Conference on Machine Learning (ICML)** — Reviewer, 2026 (Gold Reviewer)
+- **International Conference on Machine Learning (ICML)** — Reviewer, 2026 <span class="award">(Gold Reviewer)</span>
 
 - **ACM Multimedia (ACM MM)** — Reviewer, 2026
 
