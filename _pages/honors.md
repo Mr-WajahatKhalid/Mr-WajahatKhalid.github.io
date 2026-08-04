@@ -5,7 +5,6 @@ permalink: /honors/
 author_profile: true
 ---
 
-</div>
 
 
 <div class="publication">
