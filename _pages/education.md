@@ -4,40 +4,37 @@ permalink: /education/
 author_profile: true
 ---
 
-## University of Science and Technology of China (USTC)
+## Ph.D. in Cyberspace Security
 
-**School of Cyber Science and Technology**  
-**Ph.D. in Cyberspace Security**  
+School of Cyber Science and Technology  
+University of Science and Technology of China (USTC) | Hefei, China  
 Sep. 2024 – Present  
-Hefei, China  
 
 Supervisor: Prof. [Bin Liu](https://faculty.ustc.edu.cn/liubin1/en/index.htm)
 
 
-## University of Science and Technology of China (USTC)
+## M.S. in Information and Communication Engineering
 
-**School of Information Science and Technology**  
-**M.S. in Information and Communication Engineering**  
+School of Information Science and Technology  
+University of Science and Technology of China (USTC) | Hefei, China  
 Sep. 2019 – June 2024  
-Hefei, China  
 
 Supervisor: Prof. [Bin Liu](https://faculty.ustc.edu.cn/liubin1/en/index.htm)
 
 
-## Anhui Normal University
+## Chinese Language Program
 
-**Chinese Language Program**  
+Anhui Normal University (AHNU) | Wuhu, China  
 Sep. 2018 – June 2019  
-Wuhu, China  
 
 
-## The Islamia University of Bahawalpur
+## B.Sc. in Telecommunication Engineering
 
-**Department of Information and Communication Engineering**  
-**B.Sc. in Telecommunication Engineering**  
+Department of Information and Communication Engineering  
+The Islamia University of Bahawalpur (IUB) | Bahawalpur, Pakistan  
 Sep. 2014 – June 2018  
-Bahawalpur, Pakistan  
 
 GPA: 4.00/4.00  
 
 Supervisor: Prof. [Dr. Muhammad Ali Qureshi](https://www.aliqureshi.info/)
+
