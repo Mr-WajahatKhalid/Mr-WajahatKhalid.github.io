@@ -9,7 +9,7 @@ redirect_from:
 
 I am a Ph.D. candidate in Cyberspace Security at the [University of Science and Technology of China (USTC)](https://ustc.edu.cn/), advised by Prof. [Bin Liu](https://faculty.ustc.edu.cn/liubin1/en/index.htm).
 
-My research interests focus on computer vision and multimodal intelligence, with an emphasis on:
+My research interests lie in computer vision and multimodal intelligence, with a particular focus on:
 
 - Person Re-Identification
 - Cross-Modal Representation Learning
