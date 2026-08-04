@@ -11,7 +11,7 @@ author_profile: true
 
 <a href="#">MCVL: Multi-Space Cross-View Learning for Aerial-Ground Person Re-Identification</a><br>
 <strong>Wajahat Khalid</strong>, Bin Liu, Xulin Li, Yubo Wang, Muhammad Sher Afgan Afgan<br>
-<em>European Conference on Computer Vision (ECCV), 2026</em><br>
+<em>European Conference on Computer Vision (ECCV), 2026</em>
 
 </div>
 
@@ -20,8 +20,7 @@ author_profile: true
 
 <a href="#">Bridging the Sky and Ground: Towards View-Invariant Feature Learning for Aerial-Ground Person Re-Identification</a><br>
 <strong>Wajahat Khalid</strong>, Bin Liu, Xulin Li, Muhammad Waqas, Muhammad Sher Afgan<br>
-<em>IEEE/CVF International Conference on Computer Vision (ICCV), 2025</em><br>
-
+<em>IEEE/CVF International Conference on Computer Vision (ICCV), 2025</em>
 
 </div>
 
@@ -40,8 +39,7 @@ Best Paper Nomination
 
 <a href="#">Cloth-Independent Feature Learning from Multi-Perspective for Cloth-Changing Person Re-Identification</a><br>
 <strong>Wajahat Khalid</strong>, Bin Liu, Xulin Li, Muhammad Ali Qureshi<br>
-<em>International Conference on Pattern Recognition and Artificial Intelligence (ICPRAI), 2024</em><br>
-
+<em>International Conference on Pattern Recognition and Artificial Intelligence (ICPRAI), 2024</em>
 
 </div>
 
@@ -49,8 +47,7 @@ Best Paper Nomination
 <div class="publication">
 
 <a href="#">A Smart Wireless Sensor Network Node for Fire Detection</a><br>
-<strong>Wajahat Khalid</strong>, ASMA SATTAR, MUHAMMAD ALI QURESHI, ASJAD AMIN, MOBEEN AHMED MALIK,
-and KASHIF HUSSAIN<br>
+<strong>Wajahat Khalid</strong>, Asma Sattar, Muhammad Ali Qureshi, Asjad Amin, Mobeen Ahmed Malik, Kashif Hussain<br>
 <em>Turkish Journal of Electrical Engineering and Computer Sciences, 2019</em>
 
 </div>
@@ -64,7 +61,7 @@ and KASHIF HUSSAIN<br>
 <div class="publication">
 
 <a href="#">FaceExpr: Personalized Facial Expression Generation via Attention-Focused U-Net Feature Fusion in Diffusion Models</a><br>
-Muhammad Sher Afgan, Bin Liu, Mamoona Naveed Asghar, <strong>Wajahat Khalid</strong>, Kai Zou, Dongsheng Sheng<br>
+Muhammad Sher Afgan, Bin Liu, Mamoona Naveed Asghar, <strong>Wajahat Khalid</strong>, Kai Zou, Dianmo Sheng<br>
 <em>Information Fusion, 2025</em>
 
 </div>
@@ -74,7 +71,7 @@ Muhammad Sher Afgan, Bin Liu, Mamoona Naveed Asghar, <strong>Wajahat Khalid</str
 
 <a href="#">DiffAgeX: Identity Consistent Multi-Attribute Facial Synthesis via Adaptive Residual Fusion</a><br>
 Muhammad Sher Afgan, Bin Liu, <strong>Wajahat Khalid</strong>, Kai Zou, Tianyi Wei, Mamoona Naveed Asghar<br>
-<em>IEEE Transactions on Circuits and Systems for Video Technology, 2026 (Major Revision)</em><br> 
+<em>IEEE Transactions on Circuits and Systems for Video Technology, 2026 (Major Revision)</em>
 
 </div>
 
@@ -83,7 +80,6 @@ Muhammad Sher Afgan, Bin Liu, <strong>Wajahat Khalid</strong>, Kai Zou, Tianyi W
 
 <a href="#">ViDiExPo: Video-Supervised Disentanglement with Interaction-Aware Fusion for Controllable Expression and Pose in Diffusion Models</a><br>
 Muhammad Sher Afgan, Bin Liu, Kai Zou, <strong>Wajahat Khalid</strong>, Dianmo Sheng, Mamoona Naveed Asghar<br>
-<em>Neurocomputing, 2026 (Under Review)</em><br>
-
+<em>Neurocomputing, 2026 (Under Review)</em>
 
 </div>
