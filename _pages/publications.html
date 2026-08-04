@@ -5,32 +5,57 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+## First-Author Publications
 
-{% include base_path %}
+---
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+### <a href="#">MCVL: Multi-Space Cross-View Learning for Aerial-Ground Person Re-Identification</a>
 
+**Wajahat Khalid**, Bin Liu, Xiang Li, Muhammad Waqas, M. S. Afgan  
+
+*European Conference on Computer Vision (ECCV), 2026*  
+Under Review
+
+
+---
+
+### <a href="#">Bridging the Sky and Ground: Towards View-Invariant Feature Learning for Aerial-Ground Person Re-Identification</a>
+
+**Wajahat Khalid**, Bin Liu, Xiang Li, Muhammad Waqas, M. S. Afgan  
+
+*IEEE/CVF International Conference on Computer Vision (ICCV), 2025*  
+
+[Paper]
+
+
+---
+
+### <a href="#">ClothMix: A Cloth Augmentation Strategy for Cloth-Changing Person Re-Identification</a>
+
+**Wajahat Khalid**, Bin Liu, Muhammad Waqas  
+
+*IEEE International Conference on Multimedia and Expo (ICME), 2024*  
+
+Best Paper Nomination
+
+
+---
+
+### <a href="#">Cloth-Independent Feature Learning from Multi-Perspective for Cloth-Changing Person Re-Identification</a>
+
+**Wajahat Khalid**, Bin Liu, Xiang Li, Muhammad Ali Qureshi  
+
+*International Conference on Pattern Recognition and Artificial Intelligence (ICPRAI), 2024*  
+
+pp. 462–477
+
+
+---
+
+### <a href="#">A Smart Wireless Sensor Network Node for Fire Detection</a>
+
+**Wajahat Khalid**, A. Sattar, M. A. Qureshi, A. Amin, M. A. Malik, K. Hussain  
+
+*Turkish Journal of Electrical Engineering and Computer Sciences, 2019, 27(4), 2541–2556*
 
 
