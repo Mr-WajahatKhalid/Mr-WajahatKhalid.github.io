@@ -29,7 +29,7 @@ University of Science and Technology of China (USTC)<br>
 <div class="publication">
 
 <strong>Gold Medal for Academic Excellence</strong><br>
-Awarded for achieving the highest academic performance in B.Sc. Telecommunication Engineering
+Awarded for achieving the highest academic performance in B.Sc. Telecommunication Engineering (2018)<br>
 The Islamia University of Bahawalpur (IUB)<br>
 
 
@@ -39,7 +39,7 @@ The Islamia University of Bahawalpur (IUB)<br>
 <div class="publication">
 
 <strong>Academic Excellence Scholarship</strong><br>
-Awarded for outstanding undergraduate academic performance
+Awarded for outstanding undergraduate academic performance (2014-2018)<br>
 The Islamia University of Bahawalpur (IUB)<br>
 
 
