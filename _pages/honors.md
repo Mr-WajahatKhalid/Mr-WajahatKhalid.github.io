@@ -5,6 +5,9 @@ permalink: /honors/
 author_profile: true
 ---
 
+</div>
+
+
 <div class="publication">
 
 <strong>CAS-ANSO Scholarship (Level A)</strong><br>
