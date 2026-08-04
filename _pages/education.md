@@ -4,7 +4,7 @@ permalink: /education/
 author_profile: true
 ---
 
-## Ph.D. in Cyberspace Security
+**Ph.D. in Cyberspace Security**
 
 School of Cyber Science and Technology  
 University of Science and Technology of China (USTC) | Hefei, China  
