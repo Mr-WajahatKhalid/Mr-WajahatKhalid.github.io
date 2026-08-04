@@ -5,8 +5,6 @@ permalink: /honors/
 author_profile: true
 ---
 
-## Honors & Awards
-
 <div class="publication">
 
 <strong>CAS-ANSO Scholarship (Level A)</strong><br>
@@ -50,7 +48,7 @@ The Islamia University of Bahawalpur (IUB)<br>
 
 <strong>National Grassroots ICT Research Initiative (NGIRI) Project Funding</strong><br>
 National ICT R&D Fund, Pakistan (2017–2018)<br>
-Supported the final-year undergraduate thesis project: <em>"Plug-and-Play Wireless Sensor Network Node"</em>
+Supported the final-year undergraduate thesis project: <em>Plug-and-Play Wireless Sensor Network Node</em>
 
 </div>
 
