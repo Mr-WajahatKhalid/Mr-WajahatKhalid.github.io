@@ -6,6 +6,11 @@ author_profile: true
 ---
 
 
+## CAS-ANSO Scholarship (Level A)
+<div class="publication">
+Ph.D. Scholarship in Cyberspace Security (2024–Present)<br>
+University of Science and Technology of China (USTC)<br>
+
 
 <div class="publication">
 
