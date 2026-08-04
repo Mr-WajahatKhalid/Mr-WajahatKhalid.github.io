@@ -71,7 +71,7 @@ Muhammad Sher Afgan, Bin Liu, Mamoona Naveed Asghar, <strong>Wajahat Khalid</str
 
 <a href="#">DiffAgeX: Identity Consistent Multi-Attribute Facial Synthesis via Adaptive Residual Fusion</a><br>
 Muhammad Sher Afgan, Bin Liu, <strong>Wajahat Khalid</strong>, Kai Zou, Tianyi Wei, Mamoona Naveed Asghar<br>
-<em>IEEE Transactions on Circuits and Systems for Video Technology, 2026 (Major Revision)</em>
+<em>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2026 (Major Revision)</em>
 
 </div>
 
