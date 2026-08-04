@@ -47,7 +47,7 @@ author_profile: true
 <div class="publication">
 
 <a href="#">A Smart Wireless Sensor Network Node for Fire Detection</a><br>
-<strong>Wajahat Khalid</strong>, Asma Sattar, Muhammad Ali Qureshi, et al.<br>
+<strong>Wajahat Khalid</strong>, Asma Sattar, Muhammad Ali Qureshi, Asjad Amin, Mobeen Ahmed Malik, Kashif Hussain<br>
 <em>Turkish Journal of Electrical Engineering and Computer Sciences, 2019</em>
 
 </div>
@@ -61,7 +61,7 @@ author_profile: true
 <div class="publication">
 
 <a href="#">FaceExpr: Personalized Facial Expression Generation via Attention-Focused U-Net Feature Fusion in Diffusion Models</a><br>
-Muhammad Sher Afgan, Bin Liu, Mamoona Naveed Asghar, <strong>Wajahat Khalid</strong>, et al.<br>
+Muhammad Sher Afgan, Bin Liu, Mamoona Naveed Asghar, <strong>Wajahat Khalid</strong>, Kai Zou, Dianmo Sheng<br>
 <em>Information Fusion, 2025</em>
 
 </div>
@@ -79,7 +79,7 @@ Muhammad Sher Afgan, Bin Liu, <strong>Wajahat Khalid</strong>, Kai Zou, Tianyi W
 <div class="publication">
 
 <a href="#">ViDiExPo: Video-Supervised Disentanglement with Interaction-Aware Fusion for Controllable Expression and Pose in Diffusion Models</a><br>
-Muhammad Sher Afgan, Bin Liu, Kai Zou, <strong>Wajahat Khalid</strong>, et al.<br>
+Muhammad Sher Afgan, Bin Liu, Kai Zou, <strong>Wajahat Khalid</strong>, Dianmo Sheng, Mamoona Naveed Asghar<br>
 <em>Neurocomputing, 2026 (Under Review)</em>
 
 </div>
