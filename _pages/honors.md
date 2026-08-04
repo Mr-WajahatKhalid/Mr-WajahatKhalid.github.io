@@ -58,7 +58,7 @@ Funded final-year undergraduate thesis project:
 <div class="publication">
 
 <strong>Best Paper Nomination</strong><br>
-Paper: <em>ClothMix: A Cloth Augmentation Strategy for Cloth-Changing Person Re-Identification</em>
+Paper: <em>ClothMix: A Cloth Augmentation Strategy for Cloth-Changing Person Re-Identification</em><br>
 IEEE International Conference on Multimedia and Expo (ICME), 2024<br>
 
 
