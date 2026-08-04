@@ -49,8 +49,8 @@ The Islamia University of Bahawalpur (IUB)<br>
 <div class="publication">
 
 <strong>National Grassroots ICT Research Initiative (NGIRI) Project Funding</strong><br>
-Funded final-year undergraduate thesis project:
-<em>"Plug-and-Play Wireless Sensor Network Node"</em>
+National ICT R&D Fund, Pakistan (2017–2018)<br>
+Supported the final-year undergraduate thesis project: <em>"Plug-and-Play Wireless Sensor Network Node"</em>
 
 </div>
 
