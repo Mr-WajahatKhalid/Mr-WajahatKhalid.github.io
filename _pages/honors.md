@@ -21,7 +21,7 @@ Awarded for achieving the highest academic performance in B.Sc. Telecommunicatio
 The Islamia University of Bahawalpur (IUB)<br>
 
 
-## Academic Excellence Scholarship
+## Academic Excellence Scholarship (Level A)
 Awarded for outstanding undergraduate academic performance (2014-2018)<br>
 The Islamia University of Bahawalpur (IUB)<br>
 
