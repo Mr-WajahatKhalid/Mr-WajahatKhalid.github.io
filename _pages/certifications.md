@@ -12,7 +12,7 @@ Certified Chinese language proficiency (HSK Level 5), demonstrating advanced Chi
 
 ## ANSO International Training Course in Automotive Technology
 
-Completed the ANSO International Training Course in Automotive Technology, covering fundamental concepts and emerging technologies in automotive engineering.
+Completed the ANSO International Training Course in Automotive Technology (2024), covering fundamental concepts and emerging technologies in automotive engineering.
 
 
 ## Programming Competition Certificate
