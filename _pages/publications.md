@@ -10,7 +10,7 @@ author_profile: true
 <div class="publication">
 
 <a href="#">MCVL: Multi-Space Cross-View Learning for Aerial-Ground Person Re-Identification</a><br>
-<strong>Wajahat Khalid</strong>, Bin Liu, Xulin Li, Yubo Wang, Muhammad Sher Afgan Afgan<br>
+<strong>Wajahat Khalid</strong>, Bin Liu, Xulin Li, Yubo Wang, Muhammad Sher Afgan<br>
 <em>European Conference on Computer Vision (ECCV), 2026</em>
 
 </div>
