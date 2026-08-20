@@ -23,7 +23,7 @@ My current research aims to develop robust and generalizable person retrieval sy
   Education
 </h1>
 
-## Ph.D. in Cyberspace Security
+### Ph.D. in Cyberspace Security
 
 School of Cyber Science and Technology  
 University of Science and Technology of China (USTC) | Hefei, China  
@@ -32,7 +32,7 @@ Sep. 2024 – Present
 Supervisor: Prof. [Bin Liu](https://faculty.ustc.edu.cn/liubin1/en/index.htm)
 
 
-## M.S. in Information and Communication Engineering
+### M.S. in Information and Communication Engineering
 
 School of Information Science and Technology  
 University of Science and Technology of China (USTC) | Hefei, China  
@@ -41,13 +41,13 @@ Sep. 2019 – Jun. 2024
 Supervisor: Prof. [Bin Liu](https://faculty.ustc.edu.cn/liubin1/en/index.htm)
 
 
-## Chinese Language Program
+### Chinese Language Program
 
 Anhui Normal University (AHNU) | Wuhu, China  
 Sep. 2018 – Jun. 2019  
 
 
-## B.Sc. in Telecommunication Engineering
+### B.Sc. in Telecommunication Engineering
 
 Department of Information and Communication Engineering  
 The Islamia University of Bahawalpur (IUB) | Bahawalpur, Pakistan  
