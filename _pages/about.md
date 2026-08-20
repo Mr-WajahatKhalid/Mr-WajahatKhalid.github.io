@@ -28,7 +28,7 @@ My current research aims to develop robust and generalizable person retrieval sy
 School of Cyber Science and Technology  
 University of Science and Technology of China (USTC) | Hefei, China  
 Sep. 2024 – Present  
-Supervisor: Prof. [Bin Liu](https://faculty.ustc.edu.cn/liubin1/en/index.htm)
+**Supervisor:** Prof. [Bin Liu](https://faculty.ustc.edu.cn/liubin1/en/index.htm)
 
 
 ### M.S. in Information and Communication Engineering
