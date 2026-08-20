@@ -18,7 +18,7 @@ My research interests lie in computer vision and multimodal intelligence, with a
 
 My current research aims to develop robust and generalizable person retrieval systems under complex real-world scenarios, including aerial-ground person re-identification, cloth-changing person re-identification, anytime person re-identification, and text-to-image person retrieval.
 
-<h1 class="section-title">
+<h1 id="education" class="section-title">
   <i class="fas fa-graduation-cap"></i>
   Education
 </h1>
@@ -54,7 +54,7 @@ GPA: 4.00/4.00
 *Supervisor:* Prof. [Dr. Muhammad Ali Qureshi](https://www.aliqureshi.info/)
 
 
-<h1 class="section-title">
+<h1 id="publications" class="section-title">
   <i class="fas fa-book-open"></i>
   Publications
 </h1>
@@ -138,7 +138,7 @@ Muhammad Sher Afgan, Bin Liu, Kai Zou, <strong>Wajahat Khalid</strong>, Dianmo S
 
 </div>
 
-<h1 class="section-title">
+<h1 id="honors" class="section-title">
   <i class="fas fa-award"></i>
   Honors & Awards
 </h1>
@@ -191,12 +191,12 @@ Completed the ANSO International Training Course in Automotive Technology (2024)
 Certificate of achievement for securing second position in the Programming Competition organized by IEEE UCET (2018),  
 The Islamia University of Bahawalpur (IUB).
 
-<h1 class="section-title">
-  <i class="fas fa-user-check"></i>
-  Academic Services
+<h1 id="certifications" class="section-title">
+  <i class="fas fa-certificate"></i>
+  Certifications
 </h1>
 
-### Conference Reviewer
+## Conference Reviewer
 
 - **International Conference on Machine Learning (ICML)** — <span class="award">Gold Reviewer</span>, 2026
 
