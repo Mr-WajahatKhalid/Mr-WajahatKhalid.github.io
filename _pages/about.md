@@ -91,7 +91,7 @@ GPA: 4.00/4.00
 
 <div class="publication">
 
-<a href="#">Cloth-Independent Feature Learning from Multi-Perspective for Cloth-Changing Person Re-Identification</a><br>
+<a href="https://link.springer.com/chapter/10.1007/978-981-97-8702-9_31">Cloth-Independent Feature Learning from Multi-Perspective for Cloth-Changing Person Re-Identification</a><br>
 <strong>Wajahat Khalid</strong>, Bin Liu, Xulin Li, Muhammad Ali Qureshi<br>
 <em>International Conference on Pattern Recognition and Artificial Intelligence (ICPRAI), 2024</em>
 
@@ -100,7 +100,7 @@ GPA: 4.00/4.00
 
 <div class="publication">
 
-<a href="#">A Smart Wireless Sensor Network Node for Fire Detection</a><br>
+<a href="https://journals.tubitak.gov.tr/cgi/viewcontent.cgi?article=1572&context=elektrik">A Smart Wireless Sensor Network Node for Fire Detection</a><br>
 <strong>Wajahat Khalid</strong>, Asma Sattar, Muhammad Ali Qureshi, Asjad Amin, Mobeen Ahmed Malik, Kashif Hussain<br>
 <em>Turkish Journal of Electrical Engineering and Computer Sciences, 2019</em>
 
@@ -114,7 +114,7 @@ GPA: 4.00/4.00
 
 <div class="publication">
 
-<a href="#">FaceExpr: Personalized Facial Expression Generation via Attention-Focused U-Net Feature Fusion in Diffusion Models</a><br>
+<a href="https://www.sciencedirect.com/science/article/abs/pii/S1566253525005044">FaceExpr: Personalized Facial Expression Generation via Attention-Focused U-Net Feature Fusion in Diffusion Models</a><br>
 Muhammad Sher Afgan, Bin Liu, Mamoona Naveed Asghar, <strong>Wajahat Khalid</strong>, Kai Zou, Dianmo Sheng<br>
 <em>Information Fusion, 2025</em>
 
@@ -132,7 +132,7 @@ Muhammad Sher Afgan, Bin Liu, <strong>Wajahat Khalid</strong>, Kai Zou, Tianyi W
 
 <div class="publication">
 
-<a href="#">ViDiExPo: Video-Supervised Disentanglement with Interaction-Aware Fusion for Controllable Expression and Pose in Diffusion Models</a><br>
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6985056">ViDiExPo: Video-Supervised Disentanglement with Interaction-Aware Fusion for Controllable Expression and Pose in Diffusion Models</a><br>
 Muhammad Sher Afgan, Bin Liu, Kai Zou, <strong>Wajahat Khalid</strong>, Dianmo Sheng, Mamoona Naveed Asghar<br>
 <em>Neurocomputing, 2026 (Under Review)</em>
 
