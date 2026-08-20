@@ -147,31 +147,31 @@ Muhammad Sher Afgan, Bin Liu, Kai Zou, <strong>Wajahat Khalid</strong>, Dianmo S
   Honors & Awards
 </h1>
 
-## CAS-ANSO Scholarship (Level A)
+### CAS-ANSO Scholarship (Level A)
 Ph.D. Scholarship in Cyberspace Security (2024–Present)<br>
 University of Science and Technology of China (USTC)<br>
 
 
-## CSC Scholarship (Level A)
+### CSC Scholarship (Level A)
 M.S. Scholarship in Information and Communication Engineering (2019–2024)<br>
 University of Science and Technology of China (USTC)<br>
 
 
-## Gold Medal for Academic Excellence
+### Gold Medal for Academic Excellence
 Awarded for achieving the highest academic performance in B.Sc. Telecommunication Engineering (2018)<br>
 The Islamia University of Bahawalpur (IUB)<br>
 
 
-## Academic Excellence Scholarship (Level A)
+### Academic Excellence Scholarship (Level A)
 Awarded for outstanding undergraduate academic performance (2014-2018)<br>
 The Islamia University of Bahawalpur (IUB)<br>
 
 
-## National Grassroots ICT Research Initiative (NGIRI) Project Funding
+### National Grassroots ICT Research Initiative (NGIRI) Project Funding
 National ICT R&D Fund, Pakistan (2017–2018)<br>
 Supported the final-year undergraduate thesis project: <em>Plug-and-Play Wireless Sensor Network Node</em>
 
-## Best Paper Nomination
+### Best Paper Nomination
 Paper: <em>ClothMix: A Cloth Augmentation Strategy for Cloth-Changing Person Re-Identification</em><br>
 IEEE International Conference on Multimedia and Expo (ICME), 2024<br>
 
@@ -180,17 +180,17 @@ IEEE International Conference on Multimedia and Expo (ICME), 2024<br>
   Certifications
 </h1>
 
-## Chinese Proficiency Test (HSK Level 5)
+### Chinese Proficiency Test (HSK Level 5)
 
 Certified Chinese language proficiency (HSK Level 5), demonstrating advanced Chinese language skills.
 
 
-## ANSO International Training Course in Automotive Technology
+### ANSO International Training Course in Automotive Technology
 
 Completed the ANSO International Training Course in Automotive Technology (2024), covering fundamental concepts and emerging technologies in automotive engineering.
 
 
-## Programming Competition Certificate
+### Programming Competition Certificate
 
 Certificate of achievement for securing second position in the Programming Competition organized by IEEE UCET (2018),  
 The Islamia University of Bahawalpur (IUB).
