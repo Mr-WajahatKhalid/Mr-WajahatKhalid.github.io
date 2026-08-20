@@ -171,7 +171,7 @@ Supported the final-year undergraduate thesis project: <em>Plug-and-Play Wireles
 Paper: <em>ClothMix: A Cloth Augmentation Strategy for Cloth-Changing Person Re-Identification</em><br>
 IEEE International Conference on Multimedia and Expo (ICME), 2024<br>
 
-<h1 class="section-title">
+<h1 id="certifications" class="section-title">
   <i class="fas fa-certificate"></i>
   Certifications
 </h1>
@@ -191,9 +191,9 @@ Completed the ANSO International Training Course in Automotive Technology (2024)
 Certificate of achievement for securing second position in the Programming Competition organized by IEEE UCET (2018),  
 The Islamia University of Bahawalpur (IUB).
 
-<h1 id="certifications" class="section-title">
-  <i class="fas fa-certificate"></i>
-  Certifications
+<h1 id="services" class="section-title">
+  <i class="fas fa-user-check"></i>
+  Academic Services
 </h1>
 
 ## Conference Reviewer
