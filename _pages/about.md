@@ -81,7 +81,7 @@ GPA: 4.00/4.00
 
 <div class="publication">
 
-<a href="#">ClothMix: A Cloth Augmentation Strategy for Cloth-Changing Person Re-Identification</a><br>
+<a href="https://ieeexplore.ieee.org/document/10687586">ClothMix: A Cloth Augmentation Strategy for Cloth-Changing Person Re-Identification</a><br>
 <strong>Wajahat Khalid</strong>, Bin Liu, Muhammad Waqas<br>
 <em>IEEE International Conference on Multimedia and Expo (ICME), 2024</em><br>
 <span class="award">Best Paper Nomination</span>
