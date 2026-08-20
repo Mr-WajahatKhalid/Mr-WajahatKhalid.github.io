@@ -40,4 +40,14 @@
 
 html {
   scroll-behavior: smooth;
+  scroll-padding-top: 70px;
+}
+
+body {
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+}
+
+.masthead {
+  margin-top: 0 !important;
 }
