@@ -72,7 +72,7 @@ GPA: 4.00/4.00
 
 <div class="publication">
 
-<a href="#">Bridging the Sky and Ground: Towards View-Invariant Feature Learning for Aerial-Ground Person Re-Identification</a><br>
+<a href="https://openaccess.thecvf.com/content/ICCV2025/papers/Khalid_Bridging_the_Sky_and_Ground_Towards_View-Invariant_Feature_Learning_for_ICCV_2025_paper.pdf">Bridging the Sky and Ground: Towards View-Invariant Feature Learning for Aerial-Ground Person Re-Identification</a><br>
 <strong>Wajahat Khalid</strong>, Bin Liu, Xulin Li, Muhammad Waqas, Muhammad Sher Afgan<br>
 <em>IEEE/CVF International Conference on Computer Vision (ICCV), 2025</em>
 
