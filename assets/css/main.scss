@@ -57,78 +57,20 @@ body {
    ========================================================= */
 
 .section-title {
-  font-size: 1.55rem;
-  font-weight: 700;
-  margin-top: 2.8rem;
-  margin-bottom: 1.3rem;
-  display: flex;
-  align-items: center;
-  gap: 0.6rem;
-}
+  font-size: 1.6rem !important;
+  font-weight: 700 !important;
 
-.section-title i {
-  font-size: 1.15rem;
-  width: 1.4rem;
-  text-align: center;
-  opacity: 0.85;
-}
+  margin-top: 3.5rem !important;
+  margin-bottom: 1.5rem !important;
 
-/* Category headings */
-.page__content h2 {
-  font-size: 1.12rem;
-  font-weight: 700;
-  margin-top: 1.6rem;
-  margin-bottom: 0.8rem;
-  border: none;
-  padding: 0;
-}
-
-/* Individual items */
-.page__content h3 {
-  font-size: 1.03rem;
-  font-weight: 700;
-  margin-top: 1.4rem;
-  margin-bottom: 0.35rem;
-  margin-left: 0.8rem;
-  border: none;
-}
-
-/* Indent normal content following sub-items */
-.page__content h3 + p {
-  margin-left: 0.8rem;
-}
-
-/* Publication blocks */
-.publication {
-  margin-left: 0.8rem;
-  margin-bottom: 1.25rem;
-  padding-left: 0;
-  border-left: none;
-}
-
-/* Keep paragraphs compact */
-.page__content p {
-  line-height: 1.55;
-  margin-bottom: 0.8rem;
-}
-
-/* =========================
-   Major section headings
-   ========================= */
-
-.section-title {
-  font-size: 1.55rem;
-  font-weight: 700;
-  margin-top: 3.2rem;
-  margin-bottom: 1.4rem;
+  padding: 0.75rem 1rem !important;
 
   display: flex;
   align-items: center;
   gap: 0.6rem;
 
-  padding: 0.65rem 0.9rem;
-
-  background: rgba(127, 127, 127, 0.07);
+  background: rgba(127, 127, 127, 0.08) !important;
+  border-left: 4px solid var(--global-text-color) !important;
   border-radius: 6px;
 
   scroll-margin-top: 80px;
@@ -136,57 +78,58 @@ body {
 
 .section-title i {
   font-size: 1.1rem;
+  width: 1.4rem;
+  text-align: center;
   opacity: 0.8;
 }
 
 
-/* =========================
-   Publication categories
-   ========================= */
-
-.page__content h2 {
-  font-size: 1.12rem;
-  font-weight: 700;
-
-  margin-top: 1.7rem;
-  margin-bottom: 1rem;
-
-  padding-left: 0.75rem;
-
-  border-left: 3px solid var(--global-border-color);
-}
-
-
-/* =========================
-   Individual items
-   ========================= */
-
+/* Main content inside each section */
 .page__content h3 {
-  font-size: 1rem;
-  font-weight: 700;
+  font-size: 1.02rem !important;
+  font-weight: 700 !important;
 
-  margin-top: 1.5rem;
-  margin-bottom: 0.3rem;
+  margin-top: 1.6rem !important;
+  margin-bottom: 0.35rem !important;
+  margin-left: 0.9rem !important;
 
-  padding: 0;
-  border: 0;
+  padding: 0 !important;
+  border: none !important;
 }
 
 
-/* =========================
-   Publications
-   ========================= */
+/* Publication category headings */
+.page__content h2 {
+  font-size: 1.15rem !important;
+  font-weight: 700 !important;
 
+  margin-top: 1.8rem !important;
+  margin-bottom: 1rem !important;
+  margin-left: 0.5rem !important;
+
+  padding-left: 0.7rem !important;
+
+  border-left: 3px solid var(--global-border-color) !important;
+  border-bottom: none !important;
+}
+
+
+/* Paragraphs directly below individual headings */
+.page__content h3 + p {
+  margin-left: 0.9rem !important;
+}
+
+
+/* Publication entries */
 .publication {
-  margin-left: 0.8rem;
-  margin-bottom: 1.35rem;
+  margin-left: 1.25rem !important;
+  margin-bottom: 1.4rem !important;
+  padding-left: 0 !important;
+  border: none !important;
 }
 
 
-/* =========================
-   More separation between sections
-   ========================= */
-
-.section-title:not(:first-of-type) {
-  margin-top: 3.5rem;
+/* Normal text */
+.page__content p {
+  line-height: 1.55;
 }
