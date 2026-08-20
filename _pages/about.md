@@ -111,7 +111,7 @@ Supervisor: Prof. [Dr. Muhammad Ali Qureshi](https://www.aliqureshi.info/)
 </div>
 
 
----
+
 
 ## Co-Authored Publications
 
