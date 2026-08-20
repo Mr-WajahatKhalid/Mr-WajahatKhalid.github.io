@@ -51,3 +51,63 @@ body {
 .masthead {
   margin-top: 0 !important;
 }
+
+/* =========================================================
+   Homepage hierarchy
+   ========================================================= */
+
+.section-title {
+  font-size: 1.55rem;
+  font-weight: 700;
+  margin-top: 2.8rem;
+  margin-bottom: 1.3rem;
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+}
+
+.section-title i {
+  font-size: 1.15rem;
+  width: 1.4rem;
+  text-align: center;
+  opacity: 0.85;
+}
+
+/* Category headings */
+.page__content h2 {
+  font-size: 1.12rem;
+  font-weight: 700;
+  margin-top: 1.6rem;
+  margin-bottom: 0.8rem;
+  border: none;
+  padding: 0;
+}
+
+/* Individual items */
+.page__content h3 {
+  font-size: 1.03rem;
+  font-weight: 700;
+  margin-top: 1.4rem;
+  margin-bottom: 0.35rem;
+  margin-left: 0.8rem;
+  border: none;
+}
+
+/* Indent normal content following sub-items */
+.page__content h3 + p {
+  margin-left: 0.8rem;
+}
+
+/* Publication blocks */
+.publication {
+  margin-left: 0.8rem;
+  margin-bottom: 1.25rem;
+  padding-left: 0;
+  border-left: none;
+}
+
+/* Keep paragraphs compact */
+.page__content p {
+  line-height: 1.55;
+  margin-bottom: 0.8rem;
+}
