@@ -18,9 +18,10 @@ My research interests lie in computer vision and multimodal intelligence, with a
 
 My current research aims to develop robust and generalizable person retrieval systems under complex real-world scenarios, including aerial-ground person re-identification, cloth-changing person re-identification, anytime person re-identification, and text-to-image person retrieval.
 
-<div id="education"></div>
-
-# Education
+<h1 class="section-title">
+  <i class="fas fa-graduation-cap"></i>
+  Education
+</h1>
 
 ## Ph.D. in Cyberspace Security
 
@@ -56,9 +57,11 @@ GPA: 4.00/4.00
 
 Supervisor: Prof. [Dr. Muhammad Ali Qureshi](https://www.aliqureshi.info/)
 
-<div id="publications"></div>
 
-# Publications
+<h1 class="section-title">
+  <i class="fas fa-book-open"></i>
+  Publications
+</h1>
 
 ## First-Author Publications
 
@@ -139,9 +142,10 @@ Muhammad Sher Afgan, Bin Liu, Kai Zou, <strong>Wajahat Khalid</strong>, Dianmo S
 
 </div>
 
-<div id="honors"></div>
-
-# Honors & Awards
+<h1 class="section-title">
+  <i class="fas fa-award"></i>
+  Honors & Awards
+</h1>
 
 ## CAS-ANSO Scholarship (Level A)
 Ph.D. Scholarship in Cyberspace Security (2024–Present)<br>
@@ -171,9 +175,10 @@ Supported the final-year undergraduate thesis project: <em>Plug-and-Play Wireles
 Paper: <em>ClothMix: A Cloth Augmentation Strategy for Cloth-Changing Person Re-Identification</em><br>
 IEEE International Conference on Multimedia and Expo (ICME), 2024<br>
 
-<div id="certifications"></div>
-
-# Certifications
+<h1 class="section-title">
+  <i class="fas fa-certificate"></i>
+  Certifications
+</h1>
 
 ## Chinese Proficiency Test (HSK Level 5)
 
@@ -190,7 +195,10 @@ Completed the ANSO International Training Course in Automotive Technology (2024)
 Certificate of achievement for securing second position in the Programming Competition organized by IEEE UCET (2018),  
 The Islamia University of Bahawalpur (IUB).
 
-<div id="services"></div>
+<h1 class="section-title">
+  <i class="fas fa-user-check"></i>
+  Academic Services
+</h1>
 
 # Academic Services
 
